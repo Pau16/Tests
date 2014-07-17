@@ -1,0 +1,51 @@
+body{
+    font-family: "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #ffffff;
+}
+.form{
+    width: 186px;
+    background-color: #F5F5F5;
+    padding:10px;
+    margin: auto;
+    margin-top: 120px;
+    border: 1px solid #e3e3e3;
+}
+
+.section{
+    color: #333333;
+    font-weight: bold;
+}
+
+div{
+    position:relative;
+    margin: 10px auto;
+}
+
+.inline{
+    display:inline-block;
+    padding: 0px;
+}
+#mysex{
+    display: inline;
+    margin-left: 15px;
+}
+button{
+    background-color: #2780e3;
+    border-color: #2780e3;
+    color: #ffffff;
+    font-weight: bold;
+    width: 90px;
+    position: relative;
+    margin-left: 48px;
+    
+}
+
+input{
+    font-family: "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+}
+
